@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.meme-bg {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  color: black;
+  justify-content: center;
+  align-items: flex-end;
+  color: white;
+  text-shadow: 0 0 5px black;
+  text-align: center;
+  padding: 20px;
+}
